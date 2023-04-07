@@ -15,6 +15,14 @@
       "category": "Comida",
       "value": 15,
       "createdAt": "2023-04-04T23:25:53.853Z"
+    },
+    {
+      "description": "teste",
+      "value": 80,
+      "category": "Necessidade",
+      "type": "income",
+      "createdAt": "2023-04-07T21:32:19.729Z",
+      "id": 3
     }
   ]
 }
